@@ -49,11 +49,10 @@ This project focuses on transforming raw, unclean data into actionable insights 
 | EBITDA    | $1.5M      |
 | PAT       | $884.7K    |
 
-### Year-over-Year Trends
-![YOY Trends Screenshot](path/to/screenshot1.png)
+
 
 ### Revenue by Location and Sub-category
-![Revenue Breakdown Screenshot](![image](https://github.com/user-attachments/assets/8cfd5169-443a-4b15-9ae8-a9de829ce8ec))
+![Revenue Breakdown Screenshot]("C:\Users\AKASH SAH\OneDrive\Pictures\Screenshots\rbl.png")
 
 
 
