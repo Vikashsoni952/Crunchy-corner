@@ -51,8 +51,6 @@ This project focuses on transforming raw, unclean data into actionable insights 
 
 
 
-### Revenue by Location and Sub-category
-![Revenue Breakdown Screenshot]("C:\Users\AKASH SAH\OneDrive\Pictures\Screenshots\rbl.png")
 
 
 
