@@ -53,7 +53,9 @@ This project focuses on transforming raw, unclean data into actionable insights 
 ![YOY Trends Screenshot](path/to/screenshot1.png)
 
 ### Revenue by Location and Sub-category
-![Revenue Breakdown Screenshot](path/to/screenshot2.png)
+![Revenue Breakdown Screenshot](![image](https://github.com/user-attachments/assets/8cfd5169-443a-4b15-9ae8-a9de829ce8ec))
+
+
 
 ## 🤝 Collaboration & Use Cases
 - **For Businesses**: Aids in identifying cost-saving opportunities, optimizing product strategies, and monitoring regional performance.
